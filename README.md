@@ -1,5 +1,5 @@
 # Map User Identification With Eye Movement
-The two zipped csv files contain the LOC and ORI experiment gaze data exported by Tobii Studio, respectively. 
+# The two zipped csv files contain the LOC and ORI experiment gaze data exported by Tobii Studio, respectively. 
 Each file consists of the following fields:
 'ParticipantID': anonymized participant id
 'TaskID': LOC01~LOC20, ORI01~ORI20, 20 tasks (trials) in each experiment
